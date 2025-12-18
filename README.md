@@ -1,6 +1,8 @@
-# retail-analytics-lakehouse-azure-databricks
+# Amazon Retail Data Analytics | Modern Data Engineering Azure Project
+retail-analytics-lakehouse-azure-databricks
 The project implements a retail analytics (based on amazon sales) Lakehouse architecture using Azure Data Lake Gen2, Databricks (Delta Lake), and Power BI. The pipeline follows a Bronze → Silver → Gold pattern (medallion architecture) and supports analytical reporting through fact and dimension modeling.
 
+![Retail sales analytics flowchart diagram.jpg](https://myoctocat.com/assets/images/base-octocat.svg)
 🔹 Architecture
 
 Data Source: Retail Amazon Sales CSV
